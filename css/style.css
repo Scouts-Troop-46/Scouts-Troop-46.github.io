@@ -49,7 +49,7 @@ main {
     width: 50%;
 }
 
-@media screen and (max-width: 1080px){
+@media screen and (max-width: 1000px){
     #album {
         display: block;
         max-width:110px;
