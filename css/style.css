@@ -36,3 +36,7 @@ a {
 a:visited {
     color: mediumseagreen;
 }
+
+main {
+    text-align: center;
+}
