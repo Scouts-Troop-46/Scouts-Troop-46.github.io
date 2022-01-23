@@ -40,3 +40,29 @@ a:visited {
 main {
     text-align: center;
 }
+
+#album {
+    width: 100%;
+}
+
+#main {
+    width: 50%;
+}
+
+@media screen and (max-width: 1000px){
+    #album {
+        display: block;
+        max-width:110px;
+        max-height:110px;
+        height: 110px;
+        width: 110px;
+        border-radius: 20px;
+        mask-image: linear-gradient(to top, rgba(0,0,0,0.2) 0%,rgba(0,0,0,1) 100%);
+        -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0.2) 0%,rgba(0,0,0,1) 100%);
+    }
+
+    #main {
+        width: 100%;
+    }
+
+    }
