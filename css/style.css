@@ -11,6 +11,7 @@ body {
     padding: 10px;
     margin: 10px;
     border: solid 2px grey;
+    line-height: 1.2em;
 }
 .Box 
 {
@@ -88,9 +89,11 @@ main {
 
     a.ll {
         color: mediumaquamarine;
+        line-height: 1em;
     }
     a.ll:visited {
         color: mediumseagreen;
+        line-height: 1em;
     }
 
     #album {
