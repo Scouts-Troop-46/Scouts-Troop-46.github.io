@@ -68,6 +68,7 @@ main {
 }
 
 #album {
+    max-width: 300px;
     width: 100%;
     border-left: 3px;
     border-left-style: solid;
