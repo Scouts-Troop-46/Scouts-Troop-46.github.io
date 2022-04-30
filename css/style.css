@@ -46,6 +46,9 @@ body {
 a.speclink {
     text-decoration: none;
 }
+a.small {
+    font-size: 10px;
+}
 th {
     background-color: rgb(49, 49, 49);
     border: solid 2px grey;
