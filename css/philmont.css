@@ -97,6 +97,12 @@ main {
     text-align: center;
 }
 
+.bottom {
+    position: absolute;
+    top: 90%;
+    left: 30%;
+}
+
 #album {
     display: block;
     width: 100%;
